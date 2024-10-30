@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-06-10 22:21+0200\n"
+"PO-Revision-Date: 2018-06-10 22:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: jm-gdpr-plugin.php\n"
+"X-Poedit-SearchPath-1: jmGDPRAdmin.php\n"
+"X-Poedit-SearchPath-2: jmGDPRCookie.php\n"
+"X-Poedit-SearchPath-3: jmGDPRPolicy.php\n"
+"X-Poedit-SearchPath-4: jmGDPRShortcodes.php\n"
+
+#: jm-gdpr-plugin.php:49
+msgid "You must enter all credentials to delete account. Try it again"
+msgstr ""
+"Musíte zadat všechny potřebné údaje pro vymazání účtu. Zkuse to prosím "
+"znovu."
+
+#: jmGDPRAdmin.php:25
+msgid ""
+"You can use shortcode [GDPRDeleteUserForm] to show form to delete user by "
+"enter its email and password"
+msgstr ""
+"Můžete použít shortcode GDPRDeleteUserForm] pro zobrazení formuláře pro "
+"odstranění účtu v příspěvcích či stránkách."
+
+#: jmGDPRAdmin.php:29
+msgid "Global"
+msgstr "Obecné nastavení"
+
+#: jmGDPRAdmin.php:42
+msgid "Show cookie message"
+msgstr "Zobrazovat cookie zprávu"
+
+#: jmGDPRAdmin.php:47
+msgid "Show privacy checkbox at register"
+msgstr ""
+"Zobrazit zaškrtávací políčko “souhlas se pracováním osobních údajů”  při "
+"registraci"
+
+#: jmGDPRAdmin.php:58
+msgid "Cookies"
+msgstr "Cookies"
+
+#: jmGDPRAdmin.php:64
+msgid "Cookie message"
+msgstr "Text cookie zprávy"
+
+#: jmGDPRAdmin.php:69
+msgid "Show more text"
+msgstr "Titulek odkazu zobrazit více"
+
+#: jmGDPRAdmin.php:73
+msgid "Show more href"
+msgstr "Adresa odkazu zobrazit více"
+
+#: jmGDPRAdmin.php:77
+msgid "Ok label"
+msgstr "Potvrzení cookie"
+
+#: jmGDPRAdmin.php:84
+msgid "Privacy Policy"
+msgstr "Zásady ochrany osobních údajů"
+
+#: jmGDPRAdmin.php:88
+msgid "Privacy policy checkbox title"
+msgstr ""
+"Zobrazit zaškrtávací políčko “souhlas se pracováním osobních údajů”  při "
+"registraci"
+
+#: jmGDPRAdmin.php:93
+msgid "Choose a page with privacy policy"
+msgstr "Zvolte stránku se zásadami ochrany osobních údajů"
+
+#: jmGDPRPolicy.php:19
+msgid "More info"
+msgstr "Více informací"
+
+#: jmGDPRPolicy.php:28
+msgid "ERROR: Please accept our privacy policy!"
+msgstr "Chyba: Prosím přijměte naše zásady ochrany osobních údajů níže!"
+
+#: jmGDPRShortcodes.php:18
+msgid "Please enter email of account to be deleted"
+msgstr "Prosím zadejte email k účtu pro smazání"
+
+#: jmGDPRShortcodes.php:18
+msgid "Please enter password to account"
+msgstr "Prosím zadejte heslo k účtu pro smazání"
+
+#: jmGDPRShortcodes.php:18
+msgid "Delete this account"
+msgstr "Odstranit tento účet"
+
+#: jmGDPRShortcodes.php:29
+msgid "Account you entered and all data with it was successful deleted"
+msgstr "Účet se všemi daty byl úspěšně odstraněn."
+
+#: jmGDPRShortcodes.php:31
+msgid "Password or email you entered was wrong. Try it again"
+msgstr "Heslo či email nebylo vyplněno validně - zkuste to prosím znovu."
